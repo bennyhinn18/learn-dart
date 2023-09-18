@@ -1,5 +1,4 @@
-import 'dart.io'
-  main()
+main()
 {
-  print("hello + stdlib.readLinesync()");
+  print("Hello world" );
 }
