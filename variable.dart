@@ -1,5 +1,5 @@
 main()
 {
   int num=25;
-  print(num);
+  print("Number is $num");
 }
